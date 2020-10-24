@@ -1,2 +1,2 @@
-# Python-Programming :cherries:
-Programming practices :baby_chick:
+# Python-Programming :baby_chick:
+Programming practices
